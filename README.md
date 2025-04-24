@@ -1,4 +1,4 @@
-# Wasi-Session-Generator
+# Dev Ask-Session-Generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -16,11 +16,11 @@
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/923192173398)
+[`ℹ️Contact Owner`](https://wa.me/24174165527, 24165183695)
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Itxxwasi/WASI-MD-QR"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/aquakaya/Dev ask générateur session"><img title="WEB" src="https://img.shields.io/badge/FORK devAsk-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
